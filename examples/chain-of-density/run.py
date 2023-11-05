@@ -1,10 +1,7 @@
 import instructor
 import openai
 from pydantic import BaseModel, Field
-
 from pprint import pprint
-from pydantic import BaseModel, Field
-from typing import List, Dict
 from typing import List
 
 
